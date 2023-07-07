@@ -444,7 +444,7 @@
         )
 		LIMIT #{startPage}, #{pageSize}
 	</select>
-	<!-- 수주 정보 팝업  (페이징) -->
+	<!-- 수주 정보 팝업 (페이징) -->
 	
 	<select id="getOutorderinfoCnt" resultType="int">
 		select count(oo.oo_num)

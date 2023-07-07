@@ -493,7 +493,7 @@ $(document).ready(function() {
 	</div>
 </form>
 		
-		<!-- 페이지 이동  버튼 -->
+		<!-- 페이지 이동 버튼 -->
 	
 	<nav aria-label="Page navigation example">
   		<ul class="pagination justify-content-center pagination-sm">
